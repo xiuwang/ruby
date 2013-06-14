@@ -1,4 +1,4 @@
-Name: ruby
+Name: ruby2
 Cartridge-Short-Name: RUBY
 Display-Name: Ruby 1.9
 Description: "Ruby is a dynamic, reflective, general-purpose object-oriented programming language. Popular development frameworks include Ruby on Rails and Sinatra."
@@ -8,7 +8,7 @@ License: "Ruby BSDL"
 License-Url: http://www.ruby-lang.org/en/about/license.txt
 Vendor: ruby.org
 Cartridge-Version: 0.0.2
-Cartridge-Vendor: redhat
+Cartridge-Vendor: ruby2
 Categories:
   - service
   - ruby
@@ -101,3 +101,14 @@ Version-Overrides:
       - components:
         - ruby-1.8
         - web_proxy
+#Source-Url: file:///root/perlv2cart/
+#Source-Url: https://github.com/wsun1/perlv2cart/raw/master/perlv2cart.tar
+#Source-Url: https://github.com/wsun1/perlv2cart/raw/master/perlv2cart.tar.gz
+#Source-Url: https://github.com/wsun1/perlv2cart/raw/master/perlv2cart.zip
+#Source-Url: http://github.com/wsun1/perlv2cart/raw/master/perlv2cart.tar
+#Source-Url: http://github.com/wsun1/perlv2cart/raw/master/perlv2cart.tar.gz
+#Source-Url: http://github.com/wsun1/perlv2cart/raw/master/perlv2cart.zip
+#Source-Url: https://github.com/wsun1/perlv2cart.git
+#Source-Url: git://github.com/wsun1/perlv2cart.git
+#Source-Url: http://github.com/wsun1/perlv2cart.git
+#Source-Url: https://github.com/wsun1/perlv2cart/archive/master.zip
