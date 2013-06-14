@@ -101,6 +101,8 @@ Version-Overrides:
       - components:
         - ruby-1.8
         - web_proxy
+Install-Build-Required: false
+#Source-Md5: d916798a7e218f12b476bf1dee645f9d
 #Source-Url: file:///root/ruby/
 #Source-Url: https://github.com/chunyunchen/ruby/raw/master/ruby.tar
 Source-Url: https://github.com/chunyunchen/ruby/raw/master/ruby.tar.gz
